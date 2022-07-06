@@ -18,7 +18,3 @@ for tag in tags:
    # Look at the parts of a tag
    sum=sum+int(tag.contents[0])
 print(sum)
-
-
-cnt = input('Enter count - ')
-pos = input('Enter position - ')
